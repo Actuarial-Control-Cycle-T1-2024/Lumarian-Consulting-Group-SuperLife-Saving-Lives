@@ -9,7 +9,7 @@ To ensure that our interventions generate economic value and are sustainable ove
 ### Program Design
 
 ### Pricing and Costs
-
+Pricing and costs covers the mortality savings if our policy bundles were implemented over the past 20 years. It also projects the expected economic value added over suitable timeframes such as 20, 40 and 60-year for whole life and 20-year for our term life products. We also determine possible pricing adjustments, focusing mainly on premium reductions. 
 ### Assumption
 
 ### Risk and Mitigation
