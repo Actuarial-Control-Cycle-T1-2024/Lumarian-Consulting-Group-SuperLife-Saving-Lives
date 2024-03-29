@@ -18,7 +18,7 @@ This is written in markdown language.
 * Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
 
 # Roles and Responsibilities
-* Teresa Lu: Program Design
+* Teresa Lu: Program Design and External Research
 * Arth Patel
 * Tom Kirkman
 * Mikhail Savkin
