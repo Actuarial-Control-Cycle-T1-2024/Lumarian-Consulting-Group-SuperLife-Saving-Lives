@@ -6,7 +6,6 @@ Lumarian Consulting Group (LCG) presents a set of proposed life insurance and he
 Our proposal provides distinct life insurance offerings for a wide range of policyholders. For our 20-year term (T20) product, we introduce a smoking cessation program for eligible smokers under the age of 40, as well as, a general health screening intervention for eligible non-smokers under the age of 45. These programs have the incentive of reduced premiums upon engagement with the intervention. For our whole life (WL) product, we introduce a healthy heart screening intervention for eligible non-smokers over 45 with the incentive of a cash-back. 
 To ensure that our interventions generate economic value and are sustainable over long time horizons, we have determined the mortality savings of the offerings had they been implemented 20 years ago and explored the profitability and economic value of the two T20 offerings over the next 20 years, and the WL offering across 20-year, 40-year and 60-year time horizons. Additionally, extensive stress testing on a few of our key assumptions has been performed and comprehensive risk mitigation strategies and ethical considerations have been made, to ensure that our offerings continue to align with SuperLife’s primary goals during adverse scenarios.
 
-More information on GitHub Pages can be found [here](https://pages.github.com/)
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/ad81d1ab254cd6a29baf16b9e571825e86b06e94/Flowchart%20Model.png)
 
 ---
