@@ -22,7 +22,7 @@ This is written in markdown language.
 * Arth Patel
 * Tom Kirkman
 * Mikhail Savkin
-* Yukeshan Easwaran
+* Yukeshan Easwaran: Pricing Modelling and Pricing Report 
 
 #### Follow the [guide doc](doc1.pdf) to submit your work. 
 
