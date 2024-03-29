@@ -20,7 +20,7 @@ This is written in markdown language.
 
 # Roles and Responsibilities
 * Teresa Lu: Program Design Report and External Research
-* Arth Patel
+* Arth Patel: Data and Data Limitations and Exploratory Data Analysis
 * Tom Kirkman
 * Mikhail Savkin
 * Yukeshan Easwaran: Pricing Modelling and Pricing Report 
