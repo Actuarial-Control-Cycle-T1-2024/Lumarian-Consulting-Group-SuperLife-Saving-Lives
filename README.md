@@ -8,6 +8,7 @@ To ensure that our interventions generate economic value and are sustainable ove
 
 ### Program Design
 
+![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/ad81d1ab254cd6a29baf16b9e571825e86b06e94/Flowchart%20Model.png)
 ### Pricing and Costs
 Pricing and costs covers the mortality savings if our policy bundles were implemented over the past 20 years. It also projects the expected economic value added over suitable timeframes such as 20, 40 and 60-year for whole life and 20-year for our term life products. We also determine possible pricing adjustments, focusing mainly on premium reductions. 
 ### Assumption
@@ -16,7 +17,7 @@ Pricing and costs covers the mortality savings if our policy bundles were implem
 There are several considerable risks shown in the matrix below that factor into the Lumaria incentive program. Sensitivity on pricing parameters, interest rate and variable expenses show that our 3 programs are mostly profitable, with threats only on the extremities of our analysis. The Whole Life program performed best whereas the T20 Smoker program was the least financially stable.
 ### Data Limitations
 
-![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/ad81d1ab254cd6a29baf16b9e571825e86b06e94/Flowchart%20Model.png)
+
 
 ---
 
