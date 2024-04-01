@@ -15,6 +15,7 @@ Pricing and costs covers the mortality savings if our policy bundles were implem
 
 ### Risk and Mitigation
 There are several considerable risks shown in the matrix below that factor into the Lumaria incentive program. Sensitivity on pricing parameters, interest rate and variable expenses show that our 3 programs are mostly profitable, with threats only on the extremities of our analysis. The Whole Life program performed best whereas the T20 Smoker program was the least financially stable.
+![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/d85d8213ac455da456752d190619a3c479abb382/risk%20matrix.PNG)
 ### Data Limitations
 
 
