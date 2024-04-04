@@ -7,8 +7,8 @@ Our proposal provides distinct life insurance offerings for a wide range of poli
 To ensure that our interventions generate economic value and are sustainable over long time horizons, we have determined the mortality savings of the offerings had they been implemented 20 years ago and explored the profitability and economic value of the two T20 offerings over the next 20 years, and the WL offering across 20-year, 40-year and 60-year time horizons. Additionally, extensive stress testing on a few of our key assumptions has been performed and comprehensive risk mitigation strategies and ethical considerations have been made, to ensure that our offerings continue to align with SuperLife’s primary goals during adverse scenarios.
 
 ### Program Design
-
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/ad81d1ab254cd6a29baf16b9e571825e86b06e94/Flowchart%20Model.png)
+Program Design describes the three program bundles' features and requirements (as seen in the Flow Chart above), justified through their contribution towards a decrease in expected mortality and an increase in program participation. Additionally, it defines and justifies the 5-year short-term and 20, 40 and 60-year long-term timeframes to evaluate the program.
 ### Pricing and Costs
 Pricing and costs covers the mortality savings if our policy bundles were implemented over the past 20 years. It also projects the expected economic value added over suitable timeframes such as 20, 40 and 60-year for whole life and 20-year for our term life products. We also determine possible pricing adjustments, focusing mainly on premium reductions. 
 ### Assumption
