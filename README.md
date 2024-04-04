@@ -2,19 +2,19 @@
 # Lumarian Consulting Group (LCG) Landing Page
 ### Project Flow / Case Story
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/cdee23df45884f7efa900e68ea35b311343548d8/Screenshot%202024-04-04%20at%202.35.52%20pm.png)
-### Stage 1: Understand Project Summary
+## Stage 1: Understand Project Summary
 To start off, it was essential for our team, LCG, to understand the requirements and project details put forward by SuperLife, focusing on their goals and objectives. 
-### Stage 2: Data Investigation and External Research
+## Stage 2: Data Investigation and External Research
 Our next stage of our project flow focused on understanding the data provided by SuperLife and filling in the gaps of the internal data with our own external research. Our internal research focused on mortality experience, customer demographics and any other insights discussed in the report. Our external research focused mainly on the efficacy of the intervention programs and incentive recommendations
-### Stage 3: Intervention and Incentive Selection
+## Stage 3: Intervention and Incentive Selection
 Utilising our external research and growth opportunities determined through our understanding of the demongraphics, we determined the main intervention programs and incentive selections which would provide the greatest economic values and health benefits for Superlife and the economy.
-### Stage 4: Establish Data Assumptions and Limitations
+## Stage 4: Establish Data Assumptions and Limitations
 Before beginning the pricing, it was important to determine the assumptions and limitations associated within our pricing model as well as the overall insights garnered from the data. 
-### Stage 5: Pricing: Profits and Scenario Analysis
+## Stage 5: Pricing: Profits and Scenario Analysis
 Adjustment of template pricing model to reflect our limitations and intervention incentives. Formulated macros to provide results for all age groups and policy types that also allowed for stronger sensitivity analysis.
-### Stage 6: Risk and Risk Mitigations
+## Stage 6: Risk and Risk Mitigations
 Combining ongoing risk identification and categorising these under RCD guide. 
-### Stage 7: Final Recommendations
+## Stage 7: Final Recommendations
 
 
 ### Project Summary
