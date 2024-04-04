@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 # Lumaria Consulting Group (LCG) Landing Page
-                                                ### Project Flow / Case Story
+### Project Flow / Case Story
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/cdee23df45884f7efa900e68ea35b311343548d8/Screenshot%202024-04-04%20at%202.35.52%20pm.png)
 ### Project Summary
 Lumarian Consulting Group (LCG) presents a set of proposed life insurance and health incentive programs tailored for SuperLife's policyholders. These programs leverage data-driven insights and ethical considerations to incentivize healthy behaviours, reduce mortality rates, boost life insurance sales, enhance product competitiveness, and drive economic value for SuperLife.
