@@ -2,6 +2,18 @@
 # Lumarian Consulting Group (LCG) Landing Page
 ### Project Flow / Case Story
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/cdee23df45884f7efa900e68ea35b311343548d8/Screenshot%202024-04-04%20at%202.35.52%20pm.png)
+# Stage 1: Understand Project Summary
+To start off, it was essential for our team, LCG, to understand the requirements and project details put forward by SuperLife, focusing on their goals and objectives. 
+# Stage 2: Data Investigation and External Research
+Our next stage of our project flow focused on understanding the data provided by SuperLife and filling in the gaps of the internal data with our own external research. Our internal research focused on mortality experience, customer demographics and any other insights discussed in the report. Our external research focused mainly on the efficacy of the intervention programs and incentive recommendations
+# Stage 3: Intervention and Incentive Selection
+Utilising our external research and growth opportunities determined through our understanding of the demongraphics, we determined the main intervention programs and incentive selections which would provide the greatest economic values and health benefits for Superlife and the economy.
+# Stage 4: Establish Data Assumptions and Limitations
+Before beginning the pricing, it was important to determine the assumptions and limitations associated within our pricing model as well as the overall insights garnered from the data. 
+# Stage 5: Pricing: Profits and Scenario Analysis
+
+
+
 ### Project Summary
 Lumarian Consulting Group (LCG) presents a set of proposed life insurance and health incentive programs tailored for SuperLife's policyholders. These programs leverage data-driven insights and ethical considerations to incentivize healthy behaviours, reduce mortality rates, boost life insurance sales, enhance product competitiveness, and drive economic value for SuperLife.
 Our proposal provides distinct life insurance offerings for a wide range of policyholders. For our 20-year term (T20) product, we introduce a smoking cessation program for eligible smokers under the age of 40, as well as, a general health screening intervention for eligible non-smokers under the age of 45. These programs have the incentive of reduced premiums upon engagement with the intervention. For our whole life (WL) product, we introduce a healthy heart screening intervention for eligible non-smokers over 45 with the incentive of a cash-back. 
