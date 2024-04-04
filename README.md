@@ -10,7 +10,7 @@ Our next stage of our project flow focused on understanding the data provided by
 Utilising our external research and growth opportunities determined through our understanding of the demongraphics, we determined the main intervention programs and incentive selections which would provide the greatest economic values and health benefits for Superlife and the economy.
 ## Stage 4: Establish Data Assumptions and Limitations
 Before beginning the pricing, it was important to determine the assumptions and limitations associated within our pricing model as well as the overall insights garnered from the data. 
-## Stage 5: Pricing: Profits and Scenario Analysis
+## Stage 5: Pricing - Profits and Scenario Analysis
 Adjustment of template pricing model to reflect our limitations and intervention incentives. Formulated macros to provide results for all age groups and policy types that also allowed for stronger sensitivity analysis.
 ## Stage 6: Risk and Risk Mitigations
 Combining ongoing risk identification and categorising these under RCD guide. 
