@@ -35,7 +35,7 @@ This is written in markdown language.
 * Teresa Lu: Program Design Report and External Research
 * Arth Patel: Data and Data Limitations and Exploratory Data Analysis
 * Tom Kirkman: Sensitivity Analysis and Risk Mitigation
-* Mikhail Savkin
+* Mikhail Savkin: Executive Summary and Program Design and Assumption Research
 * Yukeshan Easwaran: Pricing Modelling and Pricing Report 
 
 #### Follow the [guide doc](doc1.pdf) to submit your work. 
