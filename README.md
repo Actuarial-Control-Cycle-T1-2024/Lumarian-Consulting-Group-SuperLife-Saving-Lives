@@ -41,7 +41,7 @@ There are several considerable risks shown in the matrix below that factor into 
 
 ### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
 
-> Lumerian Consulting Group (LCG):  
+> Lumarian Consulting Group (LCG):  
 
 This is written in markdown language. 
 >
@@ -51,7 +51,7 @@ This is written in markdown language.
 * Teresa Lu: Program Design Report and External Research
 * Arth Patel: Data and Data Limitations and Exploratory Data Analysis
 * Tom Kirkman: Sensitivity Analysis and Risk Mitigation
-* Mikhail Savkin: Executive Summary and Program Design and Assumption Research
+* Mikhail Savkin: Executive Summary and Program Design & Assumption Research
 * Yukeshan Easwaran: Pricing Modelling and Pricing Report 
 
 #### Follow the [guide doc](doc1.pdf) to submit your work. 
