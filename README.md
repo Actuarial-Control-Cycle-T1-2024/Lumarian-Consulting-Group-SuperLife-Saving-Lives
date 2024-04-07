@@ -103,6 +103,7 @@ Mortality Savings from Proposed Programs
 Across the three proposed offerings, LCG has determined that there would have been immense savings from reduced mortality costs had the program been implemented for the past 20 years, as seen in Figure 4.  Appendix B1 outlines the process for determining mortality savings.
 
 <img width="462" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165342036/dd035e06-0a4f-46d2-9751-b8ca040e6099">
+
 Figure 4: SuperLife’s Mortality Savings If The Program Had Been Implemented 20 Years Ago
 
 T20 Smoker Bundle: Our T20 Smoker Package would have provided over Č15m, or 18.48%, in mortality savings, as seen in Figure 4. These large savings are due to the immense mortality improvements seen in younger individuals who successfully quit smoking. Indeed, we see that the mortality improvements through ages are variable (see Appendix B3). It is important to note that the variability in savings at issue ages are a result of many factors such as the variability in actual mortality experience when compared to expected mortality experience or modelling errors. It is important to consider this limitation within the context of the pricing section.
@@ -113,6 +114,8 @@ SPWL Non-Smoker Bundle: For the Whole Life Non-Smoker Package, we estimate total
 
 #### Economic Value Added From Proposed Program
 When determining the added economic value of our proposed programs, our team projected sample portfolios of new sales in the year 2025 that follows the same composition of policies at each issue age as the overall book over the past 20 years (see Appendix B2). Added economic value from our bundles is calculated by the difference between the net present value of the portfolio with our proposed program and the net present value of the portfolio without the program. This portfolio of new sales is projected over suitable time frames such as 20 years for 20-year term policies and 20, 40 and 60 years for whole life policies.
+
+<img width="452" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165342036/b912393d-a256-4e55-bbd8-78bc9233dca8">
 
 Figure 5: SuperLife’s Economic Value Added Over Appropriate Timelines
 
