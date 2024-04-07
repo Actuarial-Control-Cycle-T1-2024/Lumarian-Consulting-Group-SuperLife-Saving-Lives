@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165624001/1bf99c52-0622-46d6-95a5-2daf115228c0)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 # Lumarian Consulting Group (LCG) Landing Page
 ### Project Flow / Case Story
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/cdee23df45884f7efa900e68ea35b311343548d8/Screenshot%202024-04-04%20at%202.35.52%20pm.png)
@@ -28,7 +28,9 @@ Program Design describes the three program bundles' features and requirements (a
 ### Pricing and Costs
 Pricing and costs covers the mortality savings if our policy bundles were implemented over the past 20 years. It also projects the expected economic value added over suitable timeframes such as 20, 40 and 60-year for whole life and 20-year for our term life products. We also determine possible pricing adjustments, focusing mainly on premium reductions. 
 ### Assumptions
-There were a range of key assumptions made by our team. These included data assumptions, program design assumptions, pricing and cost assumptiuons, lapse rate assumptions, reserves assumptions, mortality assumptions, market rate assumptions, and other miscellaneous assumptions. 
+There were a range of key assumptions made by our team. These included data assumptions, program design assumptions, pricing and cost assumptiuons, lapse rate assumptions, reserves assumptions, mortality assumptions, market rate assumptions, and other miscellaneous assumptions (see below). 
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165624001/bb4a08d5-3628-4285-90ba-b8b9bc0c098e)
+
 ### Risk and Mitigation
 There are several considerable risks shown in the matrix below that factor into the Lumaria incentive program. Sensitivity on pricing parameters, interest rate and variable expenses show that our 3 programs are mostly profitable, with threats only on the extremities of our analysis. The Whole Life program performed best whereas the T20 Smoker program was the least financially stable.
 
@@ -36,7 +38,24 @@ There are several considerable risks shown in the matrix below that factor into 
 ### Data Limitations
 The approximate per capita cost is not standardised to annual cost and external research was used to make assumptions on the frequency of each intervention. Further, individuals aged 56+ are significantly understated (9.98%) in the inforce dataset, compared to the encyclopedia (20.69%) in the 25-65 age bracket. We also see that 100% of the smokers aged 56+ have a claim (ie, all die), whereas only 4% of the non-smokers have a claim. This is significantly different. Overall, this will make pricing challenging as we observe an aging population in Lumaria but don't have enough data to support appropriate modeling for those ages. It was also found that inflation rate was higher than the interest rate in the given economic data, which implies a negative real rate. We removed specific outliers to get more stable results and a positive real interest rate. The provided data also doesn't provide any information regarding premium and salary of policyholders, as well as expense and commission rates. Again, assumptions were made for each of these variables which directly relate to profitability and hence will result in a degree of error in the overall profit and economic value added calculations. 
 
-
+### References
+1.	Bellis, C., Lyon, R., Klugman, S., & Shepherd, J. (2010). Understanding Actuarial Management (2nd ed.)
+2.	Benjamin, B., and R. Michelson, ‘MORTALITY DIFFERENCES BETEEN SMOKERS AND NON-SMOKERS.’ Journal of the Institute of Actuaries (1886-1994), vol. 115, no.3, 1988, pp. 519-525, accessed 18 March 2024, <http://www.jstor.org/stable/41140891>
+3.	Birdsall, M., Strommen, S. and Hartman, B. ‘Principle-based reserves simplified methods, SOA.’ SOA (July 2020), accessed 5 March 2024, <https://www.soa.org/globalassets/assets/files/resources/research-report/2020/2020-simplified-methods.pdf>. 
+4.	CDC 'Smoking and Tobacco Usage’, Center for Disease Control and Prevention (May 2023), accessed 10 March 2024, <https://www.cdc.gov/tobacco/data_statistics/fact_sheets/adult_data/cig_smoking/index.htm>.
+5.	Department of Health and Human Services 2023, Your Guide to Medicare Preventive Services, Medicare, Maryland . (Government publication)
+6.	5Department of Health and Aged Care 2023, ‘Manage your health in your 40s’, Health Direct, accessed 7 March 2024, <https://www.healthdirect.gov.au/manage-your-health-in-your-40s>
+7.	10IBC Global ‘What are the average returns on a cash value life insurance policy?’ IBC Global (2020), accessed 1 March 2024, <https://blog.ibcglobalinc.com/what-are-the-average-returns-on-a-cash-value-life-insurance-policy#:~:text=The%20key%20takeaway%20is%20that%20an%20intelligently%20designed,in%20average%20returns%20of%203%25%20to%205.5%25%20IRR>.
+8.	Jordan et al., ‘What are older smokers’ attitudes to quitting and how are they managed in primary care? An analysis of the cross-sectional English Smoking Toolkit Study’., BMJ Open (November 2017), accessed 3 March 2024, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695521/>.
+9.	2Kim. Y, Lee. J & Cho. W, ‘Factors Associated with Successful Smoking Cessation According to Age Group: Findings of an 11-Year Korea National Survey’, NIH (February 2021), accessed 10 March 2024, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7915736/>.
+10.	3Leimberg, S. and Block, K. ‘Acquisition costs and commissions: Understanding Single Premium Life Insurance, Life Insurance Quotes’ (January 2024), accessed 5 March 2024, <https://www.lifequotes.com/articles/commissions-and-acquisition-costs-on-single-premium-life-insurance/?fbclid=IwAR2k9lVTmo3phm-CFdqq-ATE2Q-dIgBTaPFMnxfy2i8hn_TFZIZ7CqTKpXw>.
+11.	4Lindholt et al., ‘The impact of population screening for cardiovascular disease on quality of life’, NIH (May 2023), accessed 4 March 2024,  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10246813/#oead055-B2>.
+40s#:~:text=If%20you%20are%20aged%2045,checking%20for%20other%20health%20conditions.>
+12.	Mayor. S, ‘Quitting smoking reduces mortality at any age, study of over 70s finds’ The BMJ (December 2016), accessed 10 March 2024, <https://aus01.safelinks.protection.outlook.com/GetUrlReputation>.
+13.	6McCracken et al., ‘NHS Health Check attendance is associated with reduced multiorgan disease risk: a matched cohort study in the UK Biobank’, BMC (January 2024), accessed 4 March 2024, <https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03187-w>.
+14.	7Thomson et al., ‘Association Between Smoking, Smoking Cessation, and Mortality by Race, Ethnicity, and Sex Among US Adults’. JAMA Network (October 2022), accessed 3 March 2024, <https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797597>.
+15.	8Truth Initiative ‘what you need to know to quit smoking’ Truth Initiative (November 2018), accessed 7 March 2024, <https://truthinitiative.org/research-resources/quitting-smoking-vaping/what-you-need-know-quit-smoking>
+16.	U.S. Centers for Medicare and Medicaid Services 2022, Counseling to prevent tobacco use & tobacco-caused disease, Medicare.gov, Baltimore. (Government publication)
 ---
 
 ### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
