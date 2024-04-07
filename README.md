@@ -108,6 +108,7 @@ When you finish the task, please paste your link to the Excel [sheet](https://un
 ### Pricing and Costs
 Mortality Savings from Proposed Programs
 Across the three proposed offerings, LCG has determined that there would have been immense savings from reduced mortality costs had the program been implemented for the past 20 years, as seen in Figure 4.  Appendix B1 outlines the process for determining mortality savings.
+
 <img width="462" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165342036/dd035e06-0a4f-46d2-9751-b8ca040e6099">
 
 
