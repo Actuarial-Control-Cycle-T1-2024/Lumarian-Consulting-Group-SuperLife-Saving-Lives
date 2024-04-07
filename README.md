@@ -105,7 +105,6 @@ The most significant of these risks are shown in the corresponding risk matrix s
 #### Sensitivity Analysis
 Selected quantifiable risks of variable mortality reduction and intervention costs, implicit to our program design, were measured in sensitivity analysis to manage profitability forecasts. Sensitvity analysis leveraged the same
 processes as seen in Appendix B2, but with different underlying assumptions.
-The T20 Smokers Package is highly volatile to changes in mortality and intervention expense parameters and hence have less stable profits, as seen in Figure 9. The extremities of our parameters either reducing profitability by 19.32% or increasing profitability by 46.16%.  With investment rate and variable expense measures however, it is profitable across all measures (see Figures 10 and 11). Monitoring and control are required with this particular package with respect to parameter predictors and black swan events that cause drastic change.   
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/0da9a3ec-e48c-4111-b44a-2119e39b7656)
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/dfb97216-684e-48c9-97ec-e16508990833)
@@ -113,11 +112,26 @@ The T20 Smokers Package is highly volatile to changes in mortality and intervent
 
 (Figures 9-11 - T20 Smoker)
 
+The T20 Smokers Package is highly volatile to changes in mortality and intervention expense parameters and hence have less stable profits, as seen in Figure 9. The extremities of our parameters either reducing profitability by 19.32% or increasing profitability by 46.16%.  With investment rate and variable expense measures however, it is profitable across all measures (see Figures 10 and 11). Monitoring and control are required with this particular package with respect to parameter predictors and black swan events that cause drastic change.   
+
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/8deaa1a7-9889-47c2-934a-e32e37ce7f33)
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/b2caa0fe-130b-45da-8232-19aa1eb94b22)
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/5c8ba281-5e6d-4a91-bf43-88065904b859)
 
 (Figures 12-14 - T20 Non-Smoker) 
+
+In comparison, non-smoker term contracts are more stable to changes in mortality and intervention expenses (see Figure 12). Variable expenses, however, have a more pronounced impact on profitability, as depicted in Figure 14 with losses on higher ranges.
+
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/db881683-2a7a-4f72-ba58-acca7249f999)
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/87a5ba49-2593-4f8e-ba05-e12224fcc504)
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/a1beb59c-836a-4009-948b-4694bc053a8f)
+
+(Figures 15-17 - Whole Life)
+
+As seen in Figures 15-17, the WL Non-Smoker Package has the most stable profits, with profits in nearly all simulated scenarios of intervention. Large increases to variable expense pose a large risk which will require mitigation techniques discussed above.
+The sensitivity analysis suggests there is a strong degree of certainty that the WL Non-Smoker Program will increase profit in comparison to those without intervention. The T20 Non-Smoker Program is also almost certainly a beneficial program with only concerns in extremities of expense and mortality. The T20 Smoker Program is still beneficial, however, has greater profit
+variability. The differential of the benefits is extended by our focus on different face value cases, where lower socio-economic classes face greater mortality improvements through healthcare programs and gives more assurance to our models. 
+
 
 ### Data Limitations
 The approximate per capita cost is not standardised to annual cost and external research was used to make assumptions on the frequency of each intervention. Further, individuals aged 56+ are significantly understated (9.98%) in the inforce dataset, compared to the encyclopedia (20.69%) in the 25-65 age bracket. We also see that 100% of the smokers aged 56+ have a claim (ie, all die), whereas only 4% of the non-smokers have a claim. This is significantly different. Overall, this will make pricing challenging as we observe an aging population in Lumaria but don't have enough data to support appropriate modeling for those ages. It was also found that inflation rate was higher than the interest rate in the given economic data, which implies a negative real rate. We removed specific outliers to get more stable results and a positive real interest rate. The provided data also doesn't provide any information regarding premium and salary of policyholders, as well as expense and commission rates. Again, assumptions were made for each of these variables which directly relate to profitability and hence will result in a degree of error in the overall profit and economic value added calculations. 
