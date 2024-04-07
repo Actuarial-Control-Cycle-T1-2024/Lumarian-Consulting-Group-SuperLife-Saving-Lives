@@ -44,7 +44,8 @@ To ensure that our interventions generate economic value and are sustainable ove
 
 # Report
 ### Program Design
-![png](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/main/Flowchart%20Model.png)
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165624001/318cbf50-6d1a-45f8-b5d8-a8a3f093549f)
+
 Program Design describes the three program bundles' features and requirements (as seen in the Flow Chart above), justified through their contribution towards a decrease in expected mortality and an increase in program participation. Additionally, it defines and justifies the 5-year short-term and 20, 40 and 60-year long-term timeframes to evaluate the program.
 
 ### Pricing and Costs
