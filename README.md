@@ -9,6 +9,7 @@
   - [Stage 5: Pricing - Profits and Scenario Analysis](#stage-5-pricing---profits-and-scenario-analysis)
   - [Stage 6: Risk and Risk Mitigations](#stage-6-risk-and-risk-mitigations)
   - [Stage 7: Final Recommendations](#stage-7-final-recommendations)
+- [Roles and Responsibilities](#roles-and-responsibilities)
 - [Project Summary](#project-summary)
 - [Report](#report)
   - [Program Design](#program-design)
