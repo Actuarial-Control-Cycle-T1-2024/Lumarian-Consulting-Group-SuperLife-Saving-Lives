@@ -117,7 +117,6 @@ SPWL Non-Smoker Bundle: For the Whole Life Non-Smoker Package, we estimate total
 When determining the added economic value of our proposed programs, our team projected sample portfolios of new sales in the year 2025 that follows the same composition of policies at each issue age as the overall book over the past 20 years (see Appendix B2). Added economic value from our bundles is calculated by the difference between the net present value of the portfolio with our proposed program and the net present value of the portfolio without the program. This portfolio of new sales is projected over suitable time frames such as 20 years for 20-year term policies and 20, 40 and 60 years for whole life policies.
 
 <img width="452" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165342036/b912393d-a256-4e55-bbd8-78bc9233dca8">
-
 Figure 5: SuperLife’s Economic Value Added Over Appropriate Timelines
 
 T20 Non-Smoker Bundle: Over a 20-year timeline, our T20 bundle with the preventative screening program has an added economic value of 7.62%, equivalent to over Č14,000 for every 100 policy bundles sold. Each issue age of our portfolio provides added economic value with the largest increases occurring at younger ages due to a smaller premium reduction at ages under 30. However, after ages 30, the added economic value increases from 4% at issue age 31 to 7.3% at issue age 45, demonstrating the improved profitability for older ages (see Appendix B6). 
@@ -134,11 +133,13 @@ Our pricing model projecting these pricing changes over suitable timeframes indi
 There were a range of key assumptions made by our team, including data assumptions, program design assumptions, pricing and cost assumptiuons, lapse rate assumptions, reserves assumptions, mortality assumptions, market rate assumptions, and other miscellaneous assumptions (see below).
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165624001/bb4a08d5-3628-4285-90ba-b8b9bc0c098e)
+Figure 6: Summary of Assumptions Made
 
 ### Risk and Mitigation
 Outlined below is a Risk Categorization and Definition (RCD) analysis that explores the main risks to be considered in both implementation and maintenance phases. 
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/eefa7dcb-afb6-433f-b4a6-4792f5b2735a)
+Figure 7: RCD Analysis For Our Main Risks
 
 #### Risk Matrix
 The most significant of these risks are shown in the corresponding risk matrix seen in Figure 8. These are pivotal factors in variables of likelihood and severity that will need ongoing monitoring to ensure continual program effectiveness and improvement.
@@ -178,6 +179,7 @@ It is important to consider the ethical framework in delivering truthful and pro
 
 ### Data Limitations
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165624001/d9e211f4-7b9b-46e4-a44f-e3898868557b)
+Figure 18: Data Limitations and Impacts
 
 ### References
 1.	Bellis, C., Lyon, R., Klugman, S., & Shepherd, J. (2010). Understanding Actuarial Management (2nd ed.)
@@ -185,15 +187,15 @@ It is important to consider the ethical framework in delivering truthful and pro
 3.	Birdsall, M., Strommen, S. and Hartman, B. ‘Principle-based reserves simplified methods, SOA.’ SOA (July 2020), accessed 5 March 2024, <https://www.soa.org/globalassets/assets/files/resources/research-report/2020/2020-simplified-methods.pdf>. 
 4.	CDC 'Smoking and Tobacco Usage’, Center for Disease Control and Prevention (May 2023), accessed 10 March 2024, <https://www.cdc.gov/tobacco/data_statistics/fact_sheets/adult_data/cig_smoking/index.htm>.
 5.	Department of Health and Human Services 2023, Your Guide to Medicare Preventive Services, Medicare, Maryland . (Government publication)
-6.	5Department of Health and Aged Care 2023, ‘Manage your health in your 40s’, Health Direct, accessed 7 March 2024, <https://www.healthdirect.gov.au/manage-your-health-in-your-40s>
-7.	10IBC Global ‘What are the average returns on a cash value life insurance policy?’ IBC Global (2020), accessed 1 March 2024, <https://blog.ibcglobalinc.com/what-are-the-average-returns-on-a-cash-value-life-insurance-policy#:~:text=The%20key%20takeaway%20is%20that%20an%20intelligently%20designed,in%20average%20returns%20of%203%25%20to%205.5%25%20IRR>.
+6.	Department of Health and Aged Care 2023, ‘Manage your health in your 40s’, Health Direct, accessed 7 March 2024, <https://www.healthdirect.gov.au/manage-your-health-in-your-40s>
+7.	IBC Global ‘What are the average returns on a cash value life insurance policy?’ IBC Global (2020), accessed 1 March 2024, <https://blog.ibcglobalinc.com/what-are-the-average-returns-on-a-cash-value-life-insurance-policy#:~:text=The%20key%20takeaway%20is%20that%20an%20intelligently%20designed,in%20average%20returns%20of%203%25%20to%205.5%25%20IRR>.
 8.	Jordan et al., ‘What are older smokers’ attitudes to quitting and how are they managed in primary care? An analysis of the cross-sectional English Smoking Toolkit Study’., BMJ Open (November 2017), accessed 3 March 2024, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5695521/>.
-9.	2Kim. Y, Lee. J & Cho. W, ‘Factors Associated with Successful Smoking Cessation According to Age Group: Findings of an 11-Year Korea National Survey’, NIH (February 2021), accessed 10 March 2024, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7915736/>.
-10.	3Leimberg, S. and Block, K. ‘Acquisition costs and commissions: Understanding Single Premium Life Insurance, Life Insurance Quotes’ (January 2024), accessed 5 March 2024, <https://www.lifequotes.com/articles/commissions-and-acquisition-costs-on-single-premium-life-insurance/?fbclid=IwAR2k9lVTmo3phm-CFdqq-ATE2Q-dIgBTaPFMnxfy2i8hn_TFZIZ7CqTKpXw>.
-11.	4Lindholt et al., ‘The impact of population screening for cardiovascular disease on quality of life’, NIH (May 2023), accessed 4 March 2024,  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10246813/#oead055-B2>.
+9.	Kim. Y, Lee. J & Cho. W, ‘Factors Associated with Successful Smoking Cessation According to Age Group: Findings of an 11-Year Korea National Survey’, NIH (February 2021), accessed 10 March 2024, <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7915736/>.
+10.	Leimberg, S. and Block, K. ‘Acquisition costs and commissions: Understanding Single Premium Life Insurance, Life Insurance Quotes’ (January 2024), accessed 5 March 2024, <https://www.lifequotes.com/articles/commissions-and-acquisition-costs-on-single-premium-life-insurance/?fbclid=IwAR2k9lVTmo3phm-CFdqq-ATE2Q-dIgBTaPFMnxfy2i8hn_TFZIZ7CqTKpXw>.
+11.	Lindholt et al., ‘The impact of population screening for cardiovascular disease on quality of life’, NIH (May 2023), accessed 4 March 2024,  <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10246813/#oead055-B2>.
 40s#:~:text=If%20you%20are%20aged%2045,checking%20for%20other%20health%20conditions.>
 12.	Mayor. S, ‘Quitting smoking reduces mortality at any age, study of over 70s finds’ The BMJ (December 2016), accessed 10 March 2024, <https://aus01.safelinks.protection.outlook.com/GetUrlReputation>.
-13.	6McCracken et al., ‘NHS Health Check attendance is associated with reduced multiorgan disease risk: a matched cohort study in the UK Biobank’, BMC (January 2024), accessed 4 March 2024, <https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03187-w>.
-14.	7Thomson et al., ‘Association Between Smoking, Smoking Cessation, and Mortality by Race, Ethnicity, and Sex Among US Adults’. JAMA Network (October 2022), accessed 3 March 2024, <https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797597>.
-15.	8Truth Initiative ‘what you need to know to quit smoking’ Truth Initiative (November 2018), accessed 7 March 2024, <https://truthinitiative.org/research-resources/quitting-smoking-vaping/what-you-need-know-quit-smoking>
+13.	McCracken et al., ‘NHS Health Check attendance is associated with reduced multiorgan disease risk: a matched cohort study in the UK Biobank’, BMC (January 2024), accessed 4 March 2024, <https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03187-w>.
+14.	Thomson et al., ‘Association Between Smoking, Smoking Cessation, and Mortality by Race, Ethnicity, and Sex Among US Adults’. JAMA Network (October 2022), accessed 3 March 2024, <https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797597>.
+15.	Truth Initiative ‘what you need to know to quit smoking’ Truth Initiative (November 2018), accessed 7 March 2024, <https://truthinitiative.org/research-resources/quitting-smoking-vaping/what-you-need-know-quit-smoking>
 16.	U.S. Centers for Medicare and Medicaid Services 2022, Counseling to prevent tobacco use & tobacco-caused disease, Medicare.gov, Baltimore. (Government publication)
