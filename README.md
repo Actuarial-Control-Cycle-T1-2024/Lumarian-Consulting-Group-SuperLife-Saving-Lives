@@ -1,20 +1,20 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
-# Lumarian Consulting Group (LCG) Landing Page
-### Project Flow / Case Story
+### Lumarian Consulting Group (LCG) Landing Page
+# Project Flow / Case Story
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/cdee23df45884f7efa900e68ea35b311343548d8/Screenshot%202024-04-04%20at%202.35.52%20pm.png)
-### Stage 1: Understand Project Summary
+# Stage 1: Understand Project Summary
 To start off, it was essential for our team, LCG, to understand the requirements and project details put forward by SuperLife, focusing on their goals and objectives. 
-### Stage 2: Data Investigation and External Research
+# Stage 2: Data Investigation and External Research
 Our next stage of our project flow focused on understanding the data provided by SuperLife and filling in the gaps of the internal data with our own external research. Our internal research focused on mortality experience, customer demographics and any other insights discussed in the report. Our external research focused mainly on the efficacy of the intervention programs and incentive recommendations
-### Stage 3: Intervention and Incentive Selection
+# Stage 3: Intervention and Incentive Selection
 Utilising our external research and growth opportunities determined through our understanding of the demongraphics, we determined the main intervention programs and incentive selections which would provide the greatest economic values and health benefits for Superlife and the economy.
-### Stage 4: Establish Data Assumptions and Limitations
+# Stage 4: Establish Data Assumptions and Limitations
 Before beginning the pricing, it was important to determine the assumptions and limitations associated within our pricing model as well as the overall insights garnered from the data. 
-### Stage 5: Pricing - Profits and Scenario Analysis
+# Stage 5: Pricing - Profits and Scenario Analysis
 Adjustment of template pricing model to reflect our limitations and intervention incentives. Formulated macros to provide results for all age groups and policy types that also allowed for stronger sensitivity analysis.
-### Stage 6: Risk and Risk Mitigations
+# Stage 6: Risk and Risk Mitigations
 Combining ongoing risk identification and categorising these under RCD guide. Outlining key mitigation approaches against selected risks for company consideration.
-### Stage 7: Final Recommendations
+# Stage 7: Final Recommendations
 Formulated our product solution to SuperLife from the synthesis of prior components.
 
 ### Project Summary
@@ -22,24 +22,25 @@ Lumarian Consulting Group (LCG) presents a set of proposed life insurance and he
 Our proposal provides distinct life insurance offerings for a wide range of policyholders. For our 20-year term (T20) product, we introduce a smoking cessation program for eligible smokers under the age of 40, as well as, a general health screening intervention for eligible non-smokers under the age of 45. These programs have the incentive of reduced premiums upon engagement with the intervention. For our whole life (WL) product, we introduce a healthy heart screening intervention for eligible non-smokers over 45 with the incentive of a cash-back. 
 To ensure that our interventions generate economic value and are sustainable over long time horizons, we have determined the mortality savings of the offerings had they been implemented 20 years ago and explored the profitability and economic value of the two T20 offerings over the next 20 years, and the WL offering across 20-year, 40-year and 60-year time horizons. Additionally, extensive stress testing on a few of our key assumptions has been performed and comprehensive risk mitigation strategies and ethical considerations have been made, to ensure that our offerings continue to align with SuperLife’s primary goals during adverse scenarios.
 
-### Program Design
+### Report
+# Program Design
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/ad81d1ab254cd6a29baf16b9e571825e86b06e94/Flowchart%20Model.png)
 Program Design describes the three program bundles' features and requirements (as seen in the Flow Chart above), justified through their contribution towards a decrease in expected mortality and an increase in program participation. Additionally, it defines and justifies the 5-year short-term and 20, 40 and 60-year long-term timeframes to evaluate the program.
-### Pricing and Costs
+# Pricing and Costs
 Pricing and costs covers the mortality savings if our policy bundles were implemented over the past 20 years. It also projects the expected economic value added over suitable timeframes such as 20, 40 and 60-year for whole life and 20-year for our term life products. We also determine possible pricing adjustments, focusing mainly on premium reductions. 
-### Assumptions
+# Assumptions
 There were a range of key assumptions made by our team, including data assumptions, program design assumptions, pricing and cost assumptiuons, lapse rate assumptions, reserves assumptions, mortality assumptions, market rate assumptions, and other miscellaneous assumptions (see below).
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165624001/bb4a08d5-3628-4285-90ba-b8b9bc0c098e)
 
-### Risk and Mitigation
+# Risk and Mitigation
 There are several considerable risks shown in the matrix below that factor into the Lumaria incentive program. Sensitivity on pricing parameters, interest rate and variable expenses show that our 3 programs are mostly profitable, with threats only on the extremities of our analysis. The Whole Life program performed best whereas the T20 Smoker program was the least financially stable.
 
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/d85d8213ac455da456752d190619a3c479abb382/risk%20matrix.PNG)
-### Data Limitations
+# Data Limitations
 The approximate per capita cost is not standardised to annual cost and external research was used to make assumptions on the frequency of each intervention. Further, individuals aged 56+ are significantly understated (9.98%) in the inforce dataset, compared to the encyclopedia (20.69%) in the 25-65 age bracket. We also see that 100% of the smokers aged 56+ have a claim (ie, all die), whereas only 4% of the non-smokers have a claim. This is significantly different. Overall, this will make pricing challenging as we observe an aging population in Lumaria but don't have enough data to support appropriate modeling for those ages. It was also found that inflation rate was higher than the interest rate in the given economic data, which implies a negative real rate. We removed specific outliers to get more stable results and a positive real interest rate. The provided data also doesn't provide any information regarding premium and salary of policyholders, as well as expense and commission rates. Again, assumptions were made for each of these variables which directly relate to profitability and hence will result in a degree of error in the overall profit and economic value added calculations. 
 
-### References
+# References
 1.	Bellis, C., Lyon, R., Klugman, S., & Shepherd, J. (2010). Understanding Actuarial Management (2nd ed.)
 2.	Benjamin, B., and R. Michelson, ‘MORTALITY DIFFERENCES BETEEN SMOKERS AND NON-SMOKERS.’ Journal of the Institute of Actuaries (1886-1994), vol. 115, no.3, 1988, pp. 519-525, accessed 18 March 2024, <http://www.jstor.org/stable/41140891>
 3.	Birdsall, M., Strommen, S. and Hartman, B. ‘Principle-based reserves simplified methods, SOA.’ SOA (July 2020), accessed 5 March 2024, <https://www.soa.org/globalassets/assets/files/resources/research-report/2020/2020-simplified-methods.pdf>. 
