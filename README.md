@@ -110,7 +110,14 @@ The T20 Smokers Package is highly volatile to changes in mortality and intervent
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/0da9a3ec-e48c-4111-b44a-2119e39b7656)
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/dfb97216-684e-48c9-97ec-e16508990833)
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/2c0386b7-6a27-4707-a9b8-bd4480c34254)
-(Figures 9-11)
+
+(Figures 9-11 - T20 Smoker)
+
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/8deaa1a7-9889-47c2-934a-e32e37ce7f33)
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/b2caa0fe-130b-45da-8232-19aa1eb94b22)
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/5c8ba281-5e6d-4a91-bf43-88065904b859)
+
+(Figures 12-14 - T20 Non-Smoker) 
 
 ### Data Limitations
 The approximate per capita cost is not standardised to annual cost and external research was used to make assumptions on the frequency of each intervention. Further, individuals aged 56+ are significantly understated (9.98%) in the inforce dataset, compared to the encyclopedia (20.69%) in the 25-65 age bracket. We also see that 100% of the smokers aged 56+ have a claim (ie, all die), whereas only 4% of the non-smokers have a claim. This is significantly different. Overall, this will make pricing challenging as we observe an aging population in Lumaria but don't have enough data to support appropriate modeling for those ages. It was also found that inflation rate was higher than the interest rate in the given economic data, which implies a negative real rate. We removed specific outliers to get more stable results and a positive real interest rate. The provided data also doesn't provide any information regarding premium and salary of policyholders, as well as expense and commission rates. Again, assumptions were made for each of these variables which directly relate to profitability and hence will result in a degree of error in the overall profit and economic value added calculations. 
