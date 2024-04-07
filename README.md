@@ -1,5 +1,9 @@
 # Lumarian Consulting Group (LCG): SuperLife Saving Lives
 
+Prepared By: Arth Patel, Mikhail Savkin, Teresa Lu, Tom Kirkman and Yukeshan Easwaran
+
+Supporting Materials: https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives
+
 ## Table of Contents
 - [Project Flow - Case Story](#project-flow---case-story)
   - [Stage 1: Understand Project Summary](#stage-1-understand-project-summary)
