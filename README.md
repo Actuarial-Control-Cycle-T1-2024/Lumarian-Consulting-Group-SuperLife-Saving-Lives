@@ -3,7 +3,7 @@
 
 ## Table of Content
 - [Project Flow / Case Story](#Project-Flow-/-Case-Story)
-  - [Stage 1: Understand Project Summary](#Stage-1-:-Understand-Project-Summary)
+  - [Stage 1: Understand Project Summary](#Stage-1-Understand-Project-Summary)
 - [Project Summary](#Project-Summary)
 - [Report](#Report)
   - [Program Design](#Program-Design)
