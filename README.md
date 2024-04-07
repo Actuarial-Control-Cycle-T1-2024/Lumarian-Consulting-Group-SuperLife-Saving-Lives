@@ -13,9 +13,11 @@
 - [Project Summary](#Project-Summary)
 - [Report](#Report)
   - [Program Design](#Program-Design)
+  - [Pricing and Costs](#Pricing-and-Costs)
+  - [Assumptions](#Assumptions)
   - [Risk and Mitigation](#Risk-and-Mitigation)
   - [Data Limitations](#Data-Limitations)
-  - 
+  - [References](#References)
 - 
 
 # Project Flow / Case Story
