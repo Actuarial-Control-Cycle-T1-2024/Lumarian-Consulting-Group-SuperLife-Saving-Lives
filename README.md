@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 # Lumarian Consulting Group (LCG) Landing Page
 
-## Table of Content
+## Table of Contents
 - [Project Flow - Case Story](#project-flow---case-story)
   - [Stage 1: Understand Project Summary](#stage-1-understand-project-summary)
   - [Stage 2: Data Investigation and External Research](#stage-2-data-investigation-and-external-research)
@@ -18,7 +18,6 @@
   - [Risk and Mitigation](#risk-and-mitigation)
   - [Data Limitations](#data-limitations)
   - [References](#references)
-- 
 
 # Project Flow - Case Story
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/cdee23df45884f7efa900e68ea35b311343548d8/Screenshot%202024-04-04%20at%202.35.52%20pm.png)
@@ -36,6 +35,13 @@ This stage adjusted the template pricing model to reflect our limitations and in
 Combining ongoing risk identification and categorising these under RCD guide, we outlined key mitigation approaches against selected risks for company consideration. Several considerable risks were considered for SuperLife's incentive program in a constructed risk matrix including intervention parameter errors, rate fluctuation, moral hazard and regional disparity. A sensitivity analysis on pricing parameters, interest rate and variable expenses showed that our three programs are mostly profitable, with threats only on the extremities of our analysis. 
 ### Stage 7: Final Recommendations
 This constructed the rationale for our product solution for SuperLife from the synthesis of prior components.
+
+# Roles and Responsibilities
+* Teresa Lu: Program Design Report and External Research
+* Arth Patel: Data and Data Limitations and Exploratory Data Analysis
+* Tom Kirkman: Sensitivity Analysis and Risk Mitigation
+* Mikhail Savkin: Executive Summary and Program Design & Assumption Research
+* Yukeshan Easwaran: Pricing Modelling and Pricing Report 
 
 # Project Summary
 Lumarian Consulting Group (LCG) presents a set of proposed life insurance and health incentive programs tailored for SuperLife's policyholders. These programs leverage data-driven insights and ethical considerations to incentivize healthy behaviours, reduce mortality rates, boost life insurance sales, enhance product competitiveness, and drive economic value for SuperLife.
@@ -110,6 +116,7 @@ The approximate per capita cost is not standardised to annual cost and external 
 14.	7Thomson et al., ‘Association Between Smoking, Smoking Cessation, and Mortality by Race, Ethnicity, and Sex Among US Adults’. JAMA Network (October 2022), accessed 3 March 2024, <https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2797597>.
 15.	8Truth Initiative ‘what you need to know to quit smoking’ Truth Initiative (November 2018), accessed 7 March 2024, <https://truthinitiative.org/research-resources/quitting-smoking-vaping/what-you-need-know-quit-smoking>
 16.	U.S. Centers for Medicare and Medicaid Services 2022, Counseling to prevent tobacco use & tobacco-caused disease, Medicare.gov, Baltimore. (Government publication)
+
 ---
 
 ### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
@@ -119,15 +126,6 @@ The approximate per capita cost is not standardised to annual cost and external 
 This is written in markdown language. 
 >
 * Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
-
-# Roles and Responsibilities
-* Teresa Lu: Program Design Report and External Research
-* Arth Patel: Data and Data Limitations and Exploratory Data Analysis
-* Tom Kirkman: Sensitivity Analysis and Risk Mitigation
-* Mikhail Savkin: Executive Summary and Program Design & Assumption Research
-* Yukeshan Easwaran: Pricing Modelling and Pricing Report 
-
-
 
 #### Follow the [guide doc](doc1.pdf) to submit your work. 
 
