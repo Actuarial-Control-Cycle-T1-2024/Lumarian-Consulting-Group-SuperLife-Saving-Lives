@@ -111,7 +111,6 @@ processes as seen in Appendix B2, but with different underlying assumptions.
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/2c0386b7-6a27-4707-a9b8-bd4480c34254)
 
 (Figures 9-11 - T20 Smoker)
-
 The T20 Smokers Package is highly volatile to changes in mortality and intervention expense parameters and hence have less stable profits, as seen in Figure 9. The extremities of our parameters either reducing profitability by 19.32% or increasing profitability by 46.16%.  With investment rate and variable expense measures however, it is profitable across all measures (see Figures 10 and 11). Monitoring and control are required with this particular package with respect to parameter predictors and black swan events that cause drastic change.   
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/8deaa1a7-9889-47c2-934a-e32e37ce7f33)
@@ -119,7 +118,6 @@ The T20 Smokers Package is highly volatile to changes in mortality and intervent
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/5c8ba281-5e6d-4a91-bf43-88065904b859)
 
 (Figures 12-14 - T20 Non-Smoker) 
-
 In comparison, non-smoker term contracts are more stable to changes in mortality and intervention expenses (see Figure 12). Variable expenses, however, have a more pronounced impact on profitability, as depicted in Figure 14 with losses on higher ranges.
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/db881683-2a7a-4f72-ba58-acca7249f999)
@@ -127,10 +125,11 @@ In comparison, non-smoker term contracts are more stable to changes in mortality
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/a1beb59c-836a-4009-948b-4694bc053a8f)
 
 (Figures 15-17 - Whole Life)
-
 As seen in Figures 15-17, the WL Non-Smoker Package has the most stable profits, with profits in nearly all simulated scenarios of intervention. Large increases to variable expense pose a large risk which will require mitigation techniques discussed above.
 The sensitivity analysis suggests there is a strong degree of certainty that the WL Non-Smoker Program will increase profit in comparison to those without intervention. The T20 Non-Smoker Program is also almost certainly a beneficial program with only concerns in extremities of expense and mortality. The T20 Smoker Program is still beneficial, however, has greater profit
 variability. The differential of the benefits is extended by our focus on different face value cases, where lower socio-economic classes face greater mortality improvements through healthcare programs and gives more assurance to our models. 
+Empirical evidence from various studies indicates that our programs would have almost certainly reduced mortality over the past two decades. Notably, smoking cessation, particularly of ages below 35, has shown the most significant impact, by reducing relative mortality risk upwards of 50% in studies (Thomson et al., 2022)11. While effectiveness decreases on subsequent decades due to prior smoking exposure, there remains a notable impact of over 30%. Additionally, screenings have been associated with empirical estimates for mortality reduction, with regular preventative screenings at approximately 23% (McCracken et al., 2024)10 and cardiovascular screenings around 11% (Lindholt et al., 2023)7. Ultimately, against these measured results, our model takes more conservative parameters and increases the viability of its effectiveness over the last 20 years with adequate risk mitigation and monitoring. 
+It is important to consider the ethical framework in delivering truthful and professional products to consumers and this, in conjunction with reputational outlook needs to be consistently monitored with ongoing data collected by Superlife after the introduction of proposed programs. Continual transparency with clients who undertake any of the three programs is paramount and accommodating these clients with their respective promised premium reductions alongside the overall initiative in ethical goals of improving general health and mortality levels needs to be ensured through mitigations over time . To ensure that SuperLife continues to remain ethical in their operations, we have suggested quarterly policyholder surveys, as well as, a platform for feedback at any time.
 
 
 ### Data Limitations
