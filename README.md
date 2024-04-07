@@ -29,6 +29,7 @@ Program Design describes the three program bundles' features and requirements (a
 Pricing and costs covers the mortality savings if our policy bundles were implemented over the past 20 years. It also projects the expected economic value added over suitable timeframes such as 20, 40 and 60-year for whole life and 20-year for our term life products. We also determine possible pricing adjustments, focusing mainly on premium reductions. 
 ### Assumptions
 There were a range of key assumptions made by our team, including data assumptions, program design assumptions, pricing and cost assumptiuons, lapse rate assumptions, reserves assumptions, mortality assumptions, market rate assumptions, and other miscellaneous assumptions.
+
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165624001/bb4a08d5-3628-4285-90ba-b8b9bc0c098e)
 
 ### Risk and Mitigation
