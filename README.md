@@ -1,5 +1,11 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 # Lumarian Consulting Group (LCG) Landing Page
+
+## Table of Content
+- [Project Flow / Case Story](#project-flow-/-case-story)
+  - Stage 1
+- Project Summary
+
 ### Project Flow / Case Story
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/cdee23df45884f7efa900e68ea35b311343548d8/Screenshot%202024-04-04%20at%202.35.52%20pm.png)
 ### Stage 1: Understand Project Summary
