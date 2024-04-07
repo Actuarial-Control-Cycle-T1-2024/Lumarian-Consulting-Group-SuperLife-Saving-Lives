@@ -9,22 +9,22 @@
   - [Program Design](#Program-Design)
 - 
 
-### Project Flow / Case Story
+# Project Flow / Case Story
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/cdee23df45884f7efa900e68ea35b311343548d8/Screenshot%202024-04-04%20at%202.35.52%20pm.png)
 ### Stage 1: Understand Project Summary
-To start off, it was essential for our team, LCG, to understand the requirements and project details put forward by SuperLife, focusing on their goals and objectives. 
+To start off, it was essential for our team, LCG, to understand the requirements and project details put forward by SuperLife to construct a health incentive program. This understanding drove effective consultation concerning SuperLife's primary goals and objectives.
 ### Stage 2: Data Investigation and External Research
-Our next stage of our project flow focused on understanding the data provided by SuperLife and filling in the gaps of the internal data with our own external research. Our internal research focused on mortality experience, customer demographics and any other insights discussed in the report. Our external research focused mainly on the efficacy of the intervention programs and incentive recommendations
+The next stage of our project flow focused on understanding the data provided by SuperLife and filling in the gaps of the internal data with our external research. Our internal research focused on mortality experience, customer demographics and other insights discussed in the report. Our external research focused mainly on the efficacy and costs of the intervention programs and incentive recommendations.
 ### Stage 3: Intervention and Incentive Selection
-Utilising our external research and growth opportunities determined through our understanding of the demongraphics, we determined the main intervention programs and incentive selections which would provide the greatest economic values and health benefits for Superlife and the economy.
+Utilising our external research and growth opportunities determined through our understanding of the demographics, we determined the main intervention programs and incentive selections that would provide the greatest health benefits and economic values for Superlife and Lumaria.
 ### Stage 4: Establish Data Assumptions and Limitations
-Before beginning the pricing, it was important to determine the assumptions and limitations associated within our pricing model as well as the overall insights garnered from the data. 
+Before beginning the pricing, it was important to determine the data assumptions and limitations associated with our pricing model as well as the overall insights to maximise transparency and accuracy. 
 ### Stage 5: Pricing - Profits and Scenario Analysis
-Adjustment of template pricing model to reflect our limitations and intervention incentives. Formulated macros to provide results for all age groups and policy types that also allowed for stronger sensitivity analysis.
+This stage adjusted the template pricing model to reflect our limitations and intervention incentives found from internal and external research. Macros was formulated to provide results for all age groups and policy types which was leveraged for a stronger sensitivity analysis.
 ### Stage 6: Risk and Risk Mitigations
-Combining ongoing risk identification and categorising these under RCD guide. Outlining key mitigation approaches against selected risks for company consideration.
+Combining ongoing risk identification and categorising these under RCD guide, we outlined key mitigation approaches against selected risks for company consideration.
 ### Stage 7: Final Recommendations
-Formulated our product solution to SuperLife from the synthesis of prior components.
+This constructed the rationale for our product solution for SuperLife from the synthesis of prior components.
 
 # Project Summary
 Lumarian Consulting Group (LCG) presents a set of proposed life insurance and health incentive programs tailored for SuperLife's policyholders. These programs leverage data-driven insights and ethical considerations to incentivize healthy behaviours, reduce mortality rates, boost life insurance sales, enhance product competitiveness, and drive economic value for SuperLife.
