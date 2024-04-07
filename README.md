@@ -54,6 +54,7 @@ To ensure that our interventions generate economic value and are sustainable ove
 Figure 1 details the decision flows that dictate which consumer demographic aligns with one of three specific bundled products which includes the intervention, incentivization program, policy type and face value. Depending on the characteristics of the policyholder, such as age and smoking status, they may be eligible for one of the three bundles. The subsequent section outlines each program, their incentives for participation, key features and evaluation timelines.
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165624001/318cbf50-6d1a-45f8-b5d8-a8a3f093549f)
+
 Figure 1: SuperLife’s Health Program Bundles
 
 #### 20 Year Term Life Insurance with Smoking Cessation Program 
@@ -62,6 +63,7 @@ This product bundle will be issued to smokers 40 years old or younger with a smo
 LCG has identified smokers as a key underrepresented demographic, given smokers comprise only 6.3% of SuperLife’s policies compared to 18% of Lumaria’s population, with this number falling to just 3.8% for policies written in the last five years, as seen in Figure 2. This presents an opportunity to greatly improve health outcomes, reduce mortality and add economic value. For this reason, smokers under the age of 40 who purchase a policy with a sum insured of Č1m, will be eligible to participate in a smoking cessation program. Due to the observed increase in mortality for smokers after age 40 within our in-force data, as well as, empirical evidence demonstrating that smoking cessation at ages below 40 have a mortality reduction of up to 90% of the excess risk from smoking (Thomson et al. 2022) and smokers aged below 40 have higher attempt and success rates of quitting (Kim. Y, Lee. J & Cho. W, 2021) participants must be aged under 40 to be eligible. However, due to the high upfront costs associated with the program (see Appendix A2), a face value of Č1m is required to be eligible for the program.
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165624001/0d342e65-d2ce-46db-8f04-4f4f16189d24)
+
 Figure 2: Proportion Of Smokers For SuperLife’s In-force Policies And The General Population
 
 To incentivize program participation, LCG recommends introducing premium reductions to policyholders who participate in the program, whereby policyholders under the age of 30 will be given a 2% discount, policyholders between the ages of 30-34 a 5% discount, and policyholders between the ages of 35-40 an 8% discount. These premium discounts are targeted incentives that encourage policyholders to engage with healthy behaviours that otherwise would not be recognized in pricing decisions. LCG recommends premium reductions over alternate incentives due to ease of implementation, low operational costs, clear and direct relationship in encouraging program participation and high confidence in projecting economic value added. The size of the eligible discount increasing with age has been decided according to our goal of increasing the sales and competitiveness of SuperLife’s life insurance offerings, given the higher profitability at ages 30-40 had these stepped reductions not been implemented (see Appendix B), as well as, our expectation of Lumaria’s population to age (see Appendix C4). 
@@ -82,6 +84,7 @@ As the upfront costs of this offering are not as high as the T20 offerings, this
 cash-back of 2% of the initial lump sum premium upon death. This is to incentivize healthy preventative measures that induce mortality reductions.  
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165624001/85524855-ec04-41cf-aa8b-bfb7cdebf12e)
+
 Figure 3: Cause of Death Among In-force Policyholders
 
 #### Other Program Features
@@ -105,6 +108,7 @@ Mortality Savings from Proposed Programs
 Across the three proposed offerings, LCG has determined that there would have been immense savings from reduced mortality costs had the program been implemented for the past 20 years, as seen in Figure 4.  Appendix B1 outlines the process for determining mortality savings.
 
 <img width="462" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165342036/dd035e06-0a4f-46d2-9751-b8ca040e6099">
+
 Figure 4: SuperLife’s Mortality Savings If The Program Had Been Implemented 20 Years Ago
 
 T20 Smoker Bundle: Our T20 Smoker Package would have provided over Č15m, or 18.48%, in mortality savings, as seen in Figure 4. These large savings are due to the immense mortality improvements seen in younger individuals who successfully quit smoking. Indeed, we see that the mortality improvements through ages are variable (see Appendix B3). It is important to note that the variability in savings at issue ages are a result of many factors such as the variability in actual mortality experience when compared to expected mortality experience or modelling errors. It is important to consider this limitation within the context of the pricing section.
@@ -117,6 +121,7 @@ SPWL Non-Smoker Bundle: For the Whole Life Non-Smoker Package, we estimate total
 When determining the added economic value of our proposed programs, our team projected sample portfolios of new sales in the year 2025 that follows the same composition of policies at each issue age as the overall book over the past 20 years (see Appendix B2). Added economic value from our bundles is calculated by the difference between the net present value of the portfolio with our proposed program and the net present value of the portfolio without the program. This portfolio of new sales is projected over suitable time frames such as 20 years for 20-year term policies and 20, 40 and 60 years for whole life policies.
 
 <img width="452" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165342036/b912393d-a256-4e55-bbd8-78bc9233dca8">
+
 Figure 5: SuperLife’s Economic Value Added Over Appropriate Timelines
 
 T20 Non-Smoker Bundle: Over a 20-year timeline, our T20 bundle with the preventative screening program has an added economic value of 7.62%, equivalent to over Č14,000 for every 100 policy bundles sold. Each issue age of our portfolio provides added economic value with the largest increases occurring at younger ages due to a smaller premium reduction at ages under 30. However, after ages 30, the added economic value increases from 4% at issue age 31 to 7.3% at issue age 45, demonstrating the improved profitability for older ages (see Appendix B6). 
@@ -133,18 +138,21 @@ Our pricing model projecting these pricing changes over suitable timeframes indi
 There were a range of key assumptions made by our team, including data assumptions, program design assumptions, pricing and cost assumptiuons, lapse rate assumptions, reserves assumptions, mortality assumptions, market rate assumptions, and other miscellaneous assumptions (see below).
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165624001/bb4a08d5-3628-4285-90ba-b8b9bc0c098e)
+
 Figure 6: Summary of Assumptions Made
 
 ### Risk and Mitigation
 Outlined below is a Risk Categorization and Definition (RCD) analysis that explores the main risks to be considered in both implementation and maintenance phases. 
 
-![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/eefa7dcb-afb6-433f-b4a6-4792f5b2735a)
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165624001/239ae1ca-7c06-4d50-9264-ae540fd7ccee)
+
 Figure 7: RCD Analysis For Our Main Risks
 
 #### Risk Matrix
 The most significant of these risks are shown in the corresponding risk matrix seen in Figure 8. These are pivotal factors in variables of likelihood and severity that will need ongoing monitoring to ensure continual program effectiveness and improvement.
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/33964998-d2b2-4828-a8f1-245fce40afef)
+
 Figure 8: Risk Matrix
 
 #### Sensitivity Analysis
@@ -153,6 +161,7 @@ Selected quantifiable risks of variable mortality reduction and intervention cos
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/0da9a3ec-e48c-4111-b44a-2119e39b7656)
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/dfb97216-684e-48c9-97ec-e16508990833)
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/2c0386b7-6a27-4707-a9b8-bd4480c34254)
+
 Figures 9, 10 & 11: T20 Smoker Intervention, Market Rate & Variable Cost
 
 The T20 Smokers Package is highly volatile to changes in mortality and intervention expense parameters and hence have less stable profits, as seen in Figure 9. The extremities of our parameters either reducing profitability by 19.32% or increasing profitability by 46.16%.  With investment rate and variable expense measures however, it is profitable across all measures (see Figures 10 and 11). Monitoring and control are required with this particular package with respect to parameter predictors and black swan events that cause drastic change.   
@@ -160,6 +169,7 @@ The T20 Smokers Package is highly volatile to changes in mortality and intervent
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/8deaa1a7-9889-47c2-934a-e32e37ce7f33)
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/b2caa0fe-130b-45da-8232-19aa1eb94b22)
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/5c8ba281-5e6d-4a91-bf43-88065904b859)
+
 Figures 12, 13 & 14: Intervention, Market Rate & Variable Cost
 
 In comparison, non-smoker term contracts are more stable to changes in mortality and intervention expenses (see Figure 12). Variable expenses, however, have a more pronounced impact on profitability, as depicted in Figure 14 with losses on higher ranges.
@@ -167,6 +177,7 @@ In comparison, non-smoker term contracts are more stable to changes in mortality
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/db881683-2a7a-4f72-ba58-acca7249f999)
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/87a5ba49-2593-4f8e-ba05-e12224fcc504)
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/a1beb59c-836a-4009-948b-4694bc053a8f)
+
 Figures 15, 16 & 17: Whole Life Intervention, Market Rate & Variable Cost
 
 As seen in Figures 15-17, the WL Non-Smoker Package has the most stable profits, with profits in nearly all simulated scenarios of intervention. Large increases to variable expense pose a large risk which will require mitigation techniques discussed above.
@@ -179,6 +190,7 @@ It is important to consider the ethical framework in delivering truthful and pro
 
 ### Data Limitations
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165624001/d9e211f4-7b9b-46e4-a44f-e3898868557b)
+
 Figure 18: Data Limitations and Impacts
 
 ### References
