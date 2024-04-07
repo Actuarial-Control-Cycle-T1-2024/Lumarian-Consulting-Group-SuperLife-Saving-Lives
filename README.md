@@ -97,11 +97,20 @@ Outlined below is a Risk Categorization and Definition (RCD) analysis that explo
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/eefa7dcb-afb6-433f-b4a6-4792f5b2735a)
 
-Risk Matrix
+#### Risk Matrix
 The most significant of these risks are shown in the corresponding risk matrix seen in Figure 8. These are pivotal factors in variables of likelihood and severity that will need ongoing monitoring to ensure continual program effectiveness and improvement.
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/33964998-d2b2-4828-a8f1-245fce40afef)
 
+#### Sensitivity Analysis
+Selected quantifiable risks of variable mortality reduction and intervention costs, implicit to our program design, were measured in sensitivity analysis to manage profitability forecasts. Sensitvity analysis leveraged the same
+processes as seen in Appendix B2, but with different underlying assumptions.
+The T20 Smokers Package is highly volatile to changes in mortality and intervention expense parameters and hence have less stable profits, as seen in Figure 9. The extremities of our parameters either reducing profitability by 19.32% or increasing profitability by 46.16%.  With investment rate and variable expense measures however, it is profitable across all measures (see Figures 10 and 11). Monitoring and control are required with this particular package with respect to parameter predictors and black swan events that cause drastic change.   
+
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/0da9a3ec-e48c-4111-b44a-2119e39b7656)
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/dfb97216-684e-48c9-97ec-e16508990833)
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/2c0386b7-6a27-4707-a9b8-bd4480c34254)
+(Figures 9-11)
 
 ### Data Limitations
 The approximate per capita cost is not standardised to annual cost and external research was used to make assumptions on the frequency of each intervention. Further, individuals aged 56+ are significantly understated (9.98%) in the inforce dataset, compared to the encyclopedia (20.69%) in the 25-65 age bracket. We also see that 100% of the smokers aged 56+ have a claim (ie, all die), whereas only 4% of the non-smokers have a claim. This is significantly different. Overall, this will make pricing challenging as we observe an aging population in Lumaria but don't have enough data to support appropriate modeling for those ages. It was also found that inflation rate was higher than the interest rate in the given economic data, which implies a negative real rate. We removed specific outliers to get more stable results and a positive real interest rate. The provided data also doesn't provide any information regarding premium and salary of policyholders, as well as expense and commission rates. Again, assumptions were made for each of these variables which directly relate to profitability and hence will result in a degree of error in the overall profit and economic value added calculations. 
