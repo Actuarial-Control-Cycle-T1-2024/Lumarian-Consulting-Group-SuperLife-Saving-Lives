@@ -1,12 +1,21 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 # Lumarian Consulting Group (LCG) Landing Page
 
-# Table of Content
+## Table of Content
 - [Project Flow / Case Story](#Project-Flow-/-Case-Story)
   - [Stage 1: Understand Project Summary](#Stage-1-Understand-Project-Summary)
+  - [Stage 2: Data Investigation and External Research](#Stage-2-Data-Investigation-and-External-Research)
+  - [Stage 3: Intervention and Incentive Selection](#Stage-3-Intervention-and-Incentive-Selection)
+  - [Stage 4: Establish Data Assumptions and Limitations](#Stage-4-Establish-Data-Assumptions-and-Limitations)
+  - [Stage 5: Pricing - Profits and Scenario Analysis](#Stage-5-Pricing---Profits-and-Scenario-Analysis)
+  - [Stage 6: Risk and Risk Mitigations](#Stage-6-Risk-and-Risk-Mitigations)
+  - [Stage 7: Final Recommendations](#Stage-7-Final-Recommendations)
 - [Project Summary](#Project-Summary)
 - [Report](#Report)
   - [Program Design](#Program-Design)
+  - [Risk and Mitigation](#Risk-and-Mitigation)
+  - [Data Limitations](#Data-Limitations)
+  - 
 - 
 
 # Project Flow / Case Story
@@ -35,8 +44,10 @@ To ensure that our interventions generate economic value and are sustainable ove
 ### Program Design
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/ad81d1ab254cd6a29baf16b9e571825e86b06e94/Flowchart%20Model.png)
 Program Design describes the three program bundles' features and requirements (as seen in the Flow Chart above), justified through their contribution towards a decrease in expected mortality and an increase in program participation. Additionally, it defines and justifies the 5-year short-term and 20, 40 and 60-year long-term timeframes to evaluate the program.
+
 ### Pricing and Costs
 Pricing and costs covers the mortality savings if our policy bundles were implemented over the past 20 years. It also projects the expected economic value added over suitable timeframes such as 20, 40 and 60-year for whole life and 20-year for our term life products. We also determine possible pricing adjustments, focusing mainly on premium reductions. 
+
 ### Assumptions
 There were a range of key assumptions made by our team, including data assumptions, program design assumptions, pricing and cost assumptiuons, lapse rate assumptions, reserves assumptions, mortality assumptions, market rate assumptions, and other miscellaneous assumptions (see below).
 
