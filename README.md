@@ -3,8 +3,8 @@
 
 ## Table of Content
 - [Project Flow / Case Story](#project-flow-/-case-story)
-  - [Stage 1](#stage-1:-understand-project-summary)
-- Project Summary
+  - [Stage 1: Understand Project Summary](#stage-1:-understand-project-summary)
+- [Project Summary](#project-summary)
 
 ### Project Flow / Case Story
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/cdee23df45884f7efa900e68ea35b311343548d8/Screenshot%202024-04-04%20at%202.35.52%20pm.png)
