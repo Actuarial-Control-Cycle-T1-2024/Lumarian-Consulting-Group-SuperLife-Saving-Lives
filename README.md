@@ -94,7 +94,13 @@ There were a range of key assumptions made by our team, including data assumptio
 
 ### Risk and Mitigation
 Outlined below is a Risk Categorization and Definition (RCD) analysis that explores the main risks to be considered in both implementation and maintenance phases. 
+
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/eefa7dcb-afb6-433f-b4a6-4792f5b2735a)
+
+Risk Matrix
+The most significant of these risks are shown in the corresponding risk matrix seen in Figure 8. These are pivotal factors in variables of likelihood and severity that will need ongoing monitoring to ensure continual program effectiveness and improvement.
+
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165276990/33964998-d2b2-4828-a8f1-245fce40afef)
 
 
 ### Data Limitations
