@@ -1,4 +1,4 @@
-![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165624001/1bf99c52-0622-46d6-95a5-2daf115228c0)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 # Lumarian Consulting Group (LCG) Landing Page
 ### Project Flow / Case Story
 ![](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/cdee23df45884f7efa900e68ea35b311343548d8/Screenshot%202024-04-04%20at%202.35.52%20pm.png)
@@ -28,7 +28,7 @@ Program Design describes the three program bundles' features and requirements (a
 ### Pricing and Costs
 Pricing and costs covers the mortality savings if our policy bundles were implemented over the past 20 years. It also projects the expected economic value added over suitable timeframes such as 20, 40 and 60-year for whole life and 20-year for our term life products. We also determine possible pricing adjustments, focusing mainly on premium reductions. 
 ### Assumptions
-There were a range of key assumptions made by our team. These included data assumptions, program design assumptions, pricing and cost assumptiuons, lapse rate assumptions, reserves assumptions, mortality assumptions, market rate assumptions, and other miscellaneous assumptions (see below). 
+There were a range of key assumptions made by our team. These included data assumptions, program design assumptions, pricing and cost assumptiuons, lapse rate assumptions, reserves assumptions, mortality assumptions, market rate assumptions, and other miscellaneous assumptions.
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165624001/bb4a08d5-3628-4285-90ba-b8b9bc0c098e)
 
 ### Risk and Mitigation
