@@ -2,7 +2,7 @@
 # Lumarian Consulting Group (LCG) Landing Page
 
 ## Table of Content
-- [Project Flow / Case Story](#Project-Flow-/-Case-Story)
+- [Project Flow / Case Story](#project-flow-/-case-story)
   - [Stage 1: Understand Project Summary](#stage-1-understand-project-summary)
   - [Stage 2: Data Investigation and External Research](#Stage-2-Data-Investigation-and-External-Research)
   - [Stage 3: Intervention and Incentive Selection](#Stage-3-Intervention-and-Incentive-Selection)
