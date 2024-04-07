@@ -54,7 +54,6 @@ To ensure that our interventions generate economic value and are sustainable ove
 Figure 1 details the decision flows that dictate which consumer demographic aligns with one of three specific bundled products which includes the intervention, incentivization program, policy type and face value. Depending on the characteristics of the policyholder, such as age and smoking status, they may be eligible for one of the three bundles. The subsequent section outlines each program, their incentives for participation, key features and evaluation timelines.
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165624001/318cbf50-6d1a-45f8-b5d8-a8a3f093549f)
-
 Figure 1: SuperLife’s Health Program Bundles
 
 #### 20 Year Term Life Insurance with Smoking Cessation Program 
@@ -63,7 +62,6 @@ This product bundle will be issued to smokers 40 years old or younger with a smo
 LCG has identified smokers as a key underrepresented demographic, given smokers comprise only 6.3% of SuperLife’s policies compared to 18% of Lumaria’s population, with this number falling to just 3.8% for policies written in the last five years, as seen in Figure 2. This presents an opportunity to greatly improve health outcomes, reduce mortality and add economic value. For this reason, smokers under the age of 40 who purchase a policy with a sum insured of Č1m, will be eligible to participate in a smoking cessation program. Due to the observed increase in mortality for smokers after age 40 within our in-force data, as well as, empirical evidence demonstrating that smoking cessation at ages below 40 have a mortality reduction of up to 90% of the excess risk from smoking (Thomson et al. 2022) and smokers aged below 40 have higher attempt and success rates of quitting (Kim. Y, Lee. J & Cho. W, 2021) participants must be aged under 40 to be eligible. However, due to the high upfront costs associated with the program (see Appendix A2), a face value of Č1m is required to be eligible for the program.
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165624001/0d342e65-d2ce-46db-8f04-4f4f16189d24)
-
 Figure 2: Proportion Of Smokers For SuperLife’s In-force Policies And The General Population
 
 To incentivize program participation, LCG recommends introducing premium reductions to policyholders who participate in the program, whereby policyholders under the age of 30 will be given a 2% discount, policyholders between the ages of 30-34 a 5% discount, and policyholders between the ages of 35-40 an 8% discount. These premium discounts are targeted incentives that encourage policyholders to engage with healthy behaviours that otherwise would not be recognized in pricing decisions. LCG recommends premium reductions over alternate incentives due to ease of implementation, low operational costs, clear and direct relationship in encouraging program participation and high confidence in projecting economic value added. The size of the eligible discount increasing with age has been decided according to our goal of increasing the sales and competitiveness of SuperLife’s life insurance offerings, given the higher profitability at ages 30-40 had these stepped reductions not been implemented (see Appendix B), as well as, our expectation of Lumaria’s population to age (see Appendix C4). 
@@ -84,7 +82,6 @@ As the upfront costs of this offering are not as high as the T20 offerings, this
 cash-back of 2% of the initial lump sum premium upon death. This is to incentivize healthy preventative measures that induce mortality reductions.  
 
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/Lumarian-Consulting-Group-SuperLife-Saving-Lives/assets/165624001/85524855-ec04-41cf-aa8b-bfb7cdebf12e)
-
 Figure 3: Cause of Death Among In-force Policyholders
 
 #### Other Program Features
@@ -102,6 +99,7 @@ Our short-term timeframe aims to address the primary goals of encouraging health
 The short-term time frame ensures that the program which achieves SuperLife’s objectives of incentivizing healthy behaviours, is a differentiated life insurance offering within the Lumarian life insurance market that is marketed well and is profitable and financially feasible for the remainder of the program. Additionally, the key risks and ethical issues that LCG have identified for this program will be assessed, and corresponding risk mitigation measures will be implemented if necessary. As this is a key time to ensure successful implementation of the proposed life insurance offerings, monthly monitoring of new business and in-force claims will be done, with appropriate pricing adjustments made if necessary. Additionally, to ensure that SuperLife administers these interventions and incentives in a transparent manner, quarterly policyholder surveys will be conducted, as well as a platform where policyholders can share their feedback at any point in time.
 
 Beyond this short-term horizon, the objectives of reducing mortality and adding economic value to SuperLife will also be assessed. Added economic value determined by our pricing models over 20-year, 40-year and 60-year time horizons will be monitored on an annual basis, with premium adjustments (i.e. revision of premium reductions and cash-backs) made if necessary. To ensure the continued success and sustainability of the proposed life insurance offerings, quarterly monitoring of new business and in-force claims will be done, with appropriate pricing adjustments made if necessary. Furthermore, risks and ethical considerations will be regularly reviewed and corresponding mitigation strategies will be actioned where appropriate. To ensure that SuperLife continues to remain ethical in their operations, the quarterly policyholder surveys and feedback platforms will continue to be maintained and monitored. 
+
 ### Pricing and Costs
 Mortality Savings from Proposed Programs
 Across the three proposed offerings, LCG has determined that there would have been immense savings from reduced mortality costs had the program been implemented for the past 20 years, as seen in Figure 4.  Appendix B1 outlines the process for determining mortality savings.
