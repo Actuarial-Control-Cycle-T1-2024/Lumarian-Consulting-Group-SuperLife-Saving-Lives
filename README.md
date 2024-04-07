@@ -20,7 +20,8 @@
   - [References](#references)
 
 # Project Flow - Case Story
-![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/cdee23df45884f7efa900e68ea35b311343548d8/Screenshot%202024-04-04%20at%202.35.52%20pm.png)
+![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165624001/f99eaa74-f2f2-4759-88f7-9456cc5abc77)
+
 ### Stage 1: Understand Project Summary
 To start off, it was essential for our team, LCG, to understand the requirements and project details put forward by SuperLife to construct a health incentive program. This understanding drove effective consultation concerning SuperLife's primary goals and objectives.
 ### Stage 2: Data Investigation and External Research
