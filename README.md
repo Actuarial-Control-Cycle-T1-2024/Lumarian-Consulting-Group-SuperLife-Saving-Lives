@@ -2,7 +2,7 @@
 # Lumarian Consulting Group (LCG) Landing Page
 
 ## Table of Content
-- [Project Flow / Case Story](#project-flow-/-case-story)
+- [Project Flow - Case Story](#project-flow---case-story)
   - [Stage 1: Understand Project Summary](#stage-1-understand-project-summary)
   - [Stage 2: Data Investigation and External Research](#stage-2-data-investigation-and-external-research)
   - [Stage 3: Intervention and Incentive Selection](#stage-3-intervention-and-incentive-selection)
@@ -20,7 +20,7 @@
   - [References](#references)
 - 
 
-# Project Flow / Case Story
+# Project Flow - Case Story
 ![image](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/blob/cdee23df45884f7efa900e68ea35b311343548d8/Screenshot%202024-04-04%20at%202.35.52%20pm.png)
 ### Stage 1: Understand Project Summary
 To start off, it was essential for our team, LCG, to understand the requirements and project details put forward by SuperLife to construct a health incentive program. This understanding drove effective consultation concerning SuperLife's primary goals and objectives.
