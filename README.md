@@ -97,18 +97,23 @@ This is written in markdown language.
 * Mikhail Savkin: Executive Summary and Program Design & Assumption Research
 * Yukeshan Easwaran: Pricing Modelling and Pricing Report 
 
+### Pricing and Costs
+Mortality Savings from Proposed Programs
+Across the three proposed offerings, LCG has determined that there would have been immense savings from reduced mortality costs had the program been implemented for the past 20 years, as seen in Figure 4.  Appendix B1 outlines the process for determining mortality savings.
+
+<img width="462" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165342036/dd035e06-0a4f-46d2-9751-b8ca040e6099">
+
+
+
 #### Follow the [guide doc](doc1.pdf) to submit your work. 
 
 When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
 ---
 
 
+
+
 >Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
 
-### Pricing and Costs
-Mortality Savings from Proposed Programs
-Across the three proposed offerings, LCG has determined that there would have been immense savings from reduced mortality costs had the program been implemented for the past 20 years, as seen in Figure 4.  Appendix B1 outlines the process for determining mortality savings.
-
-<img width="462" alt="image" src="https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-lumarian-consulting-group/assets/165342036/dd035e06-0a4f-46d2-9751-b8ca040e6099">
 
 
